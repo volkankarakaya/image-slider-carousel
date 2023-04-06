@@ -41,6 +41,7 @@
     background: transparent;
     border: 0;
     cursor: pointer;
+    
 }
 
 .carousel__button--left{
@@ -52,7 +53,7 @@
 }
 
 .carousel__button img{
-    width: 12px;
+    width: 48px;
 }
 
 .carousel__nav{
